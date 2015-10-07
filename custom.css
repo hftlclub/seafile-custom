@@ -28,7 +28,7 @@ a:hover { color: #6cd75c }
 img.repo-share-btn {
   background: url(icons/share-green.png) no-repeat !important;
 }
-img.repo-delete-btn {
+img.repo-delete-btni, img.rm-member {
   background: url(icons/delete-green.png) no-repeat !important;
 }
 img.repo-download-btn {
