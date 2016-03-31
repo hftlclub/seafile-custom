@@ -1,10 +1,10 @@
 /* login page: email --> username */
-label[for='username']{
+label[for='login']{
 	text-indent: -9999px;
 	line-height: 0;
 }
 
-label[for='username']:after{
+label[for='login']:after{
 	content: 'Benutzername (CIS) + @hftl.club';
 	text-indent: 0;
 	line-height: initial;
